@@ -10,6 +10,7 @@ This repository contains computer vision practicals performed across classificat
 |-- README.md
 |-- Classification/
 |   |-- YOLO_Banana_Classification.ipynb
+|   |-- EfficientNet.ipynb
 |   `-- models/
 |       |-- best.onnx
 |       |-- best.pt
