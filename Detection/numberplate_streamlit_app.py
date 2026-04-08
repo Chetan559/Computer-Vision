@@ -17,8 +17,8 @@ st.write("Upload an image, detect the vehicle number plate, and view the result.
 
 BASE_DIR = Path(__file__).resolve().parent
 MODEL_PATHS = {
-    "PyTorch (.pt)": BASE_DIR / "number_plate_detection.pt",
-    "ONNX (.onnx)": BASE_DIR / "number_plate_detection.onnx",
+    "PyTorch (.pt)": BASE_DIR / "model/number_plate_detection.pt",
+    "ONNX (.onnx)": BASE_DIR / "model/number_plate_detection.onnx",
 }
 
 
