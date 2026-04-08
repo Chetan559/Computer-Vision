@@ -12,6 +12,7 @@ This repository contains computer vision practicals performed across classificat
 |   |-- YOLO_Banana_Classification.ipynb
 |   |-- EfficientNet.ipynb
 |   `-- models/
+|       |-- efficientnet_banana.pth
 |       |-- best.onnx
 |       |-- best.pt
 |       `-- yolo_banana_classification.pt
@@ -25,8 +26,10 @@ This repository contains computer vision practicals performed across classificat
 |   `-- opencv-practicle.ipynb
 `-- Segmentation/
 	|-- Unet.ipynb
+	|-- sementaic-segmentaion.ipynb
 	|-- YOLO_for__segmentation.ipynb
 	`-- model/
-		|-- best.onnx
-		`-- best.pt
+		|-- unet_efficientnetb0_segmentation.pth
+		|-- yolo_best.onnx
+		`-- yolo_best.pt
 ```
